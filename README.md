@@ -54,7 +54,7 @@ Perhaps you know [Neuro-sama](https://www.youtube.com/@Neurosama) already, she i
 
 Therefore, this project, AIRI, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
 
-## DevLogs we posted & Recent updates
+## DevLogs we posted & Recent updates.
 
 - [DevLog @ 2025.07.18](https://airi.moeru.ai/docs/blog/DevLog-2025.07.18/) on July 18, 2025
 - [DreamLog 0x1](https://airi.moeru.ai/docs/blog/dreamlog-0x1/) on June 16, 2025
